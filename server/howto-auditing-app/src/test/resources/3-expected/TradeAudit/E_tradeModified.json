@@ -1,0 +1,22 @@
+{
+  "MESSAGE_TYPE": "REP_TRADE",
+  "SOURCE_REF": "2974ddf9-52f8-4111-b384-4eaacdd09988",
+  "PARAMETRIC_TYPE": "global.genesis.gen.dao.Trade",
+  "REPLY": [
+    {
+      "TRADE_ID": "000000000000040TDLO1",
+      "COUNTRY_NAME": "Turkey",
+      "CUSTOMER_ID": "10",
+      "CUSTOMER_NAME": "Genesis",
+      "NOTIONAL": 123.0,
+      "RATE": 1.2,
+      "SETTLEMENT_DATE": 1726185600000,
+      "SIDE": "SELL",
+      "SOURCE_CURRENCY": "USD",
+      "TARGET_CURRENCY": "TRY",
+      "VERSION": 1,
+      "RECORD_ID": 7239327202456633917,
+      "TIMESTAMP": 7239327204587340365
+    }
+  ]
+}
