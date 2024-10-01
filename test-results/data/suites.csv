@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1053","test insert TRADE()","","Tue Jan 07 03:33:53 UTC 2025","passed","Tue Jan 07 03:33:54 UTC 2025","","EventHandlerTest","EventHandlerTest","test insert TRADE"
+"","2744","create trade and verify the creation.","","Tue Jan 07 03:33:36 UTC 2025","passed","Tue Jan 07 03:33:39 UTC 2025","","Trade creation modification deletion and Audit","create trade and verify the creation.",""
+"","166","delete a trade","","Tue Jan 07 03:33:39 UTC 2025","passed","Tue Jan 07 03:33:40 UTC 2025","","Trade creation modification deletion and Audit","delete a trade",""
+"","321","Verify trade Audit after trade modified","","Tue Jan 07 03:33:39 UTC 2025","passed","Tue Jan 07 03:33:39 UTC 2025","","Trade creation modification deletion and Audit","Verify trade Audit after trade modified",""
+"","2933","testTradeInsert()","","Tue Jan 07 03:33:42 UTC 2025","passed","Tue Jan 07 03:33:45 UTC 2025","","global.genesis.trades.JavaTradesTest","global.genesis.trades.JavaTradesTest","testTradeInsert"
+"","6080","test delete TRADE()","","Tue Jan 07 03:33:45 UTC 2025","passed","Tue Jan 07 03:33:51 UTC 2025","","EventHandlerTest","EventHandlerTest","test delete TRADE"
+"","1090","test modify TRADE()","","Tue Jan 07 03:33:51 UTC 2025","passed","Tue Jan 07 03:33:53 UTC 2025","","EventHandlerTest","EventHandlerTest","test modify TRADE"
