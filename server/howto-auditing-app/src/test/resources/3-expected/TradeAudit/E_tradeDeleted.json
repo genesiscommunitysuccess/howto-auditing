@@ -1,0 +1,6 @@
+{
+  "MESSAGE_TYPE": "REP_TRADE",
+  "SOURCE_REF": "9e358e00-8f08-4d9f-af7d-c640e07ddbcd",
+  "PARAMETRIC_TYPE": "global.genesis.gen.dao.Trade",
+  "REPLY": []
+}

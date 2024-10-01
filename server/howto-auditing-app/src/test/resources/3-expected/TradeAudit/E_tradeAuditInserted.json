@@ -1,0 +1,27 @@
+{
+  "MESSAGE_TYPE": "REP_TRADE_AUDIT",
+  "SOURCE_REF": "879305bd-a35c-4e16-9dd0-80db0bc31de5",
+  "PARAMETRIC_TYPE": "global.genesis.gen.dao.TradeAudit",
+  "REPLY": [
+    {
+      "TRADE_ID": "000000000000040TDLO1",
+      "COUNTRY_NAME": "Turkey",
+      "CUSTOMER_ID": "10",
+      "CUSTOMER_NAME": "Genesis",
+      "NOTIONAL": 123.0,
+      "RATE": 1.2,
+      "SETTLEMENT_DATE": 1726185600000,
+      "SIDE": "BUY",
+      "SOURCE_CURRENCY": "TRY",
+      "TARGET_CURRENCY": "TRY",
+      "VERSION": 1,
+      "TRADE_AUDIT_ID": "000000000000075TALO1",
+      "AUDIT_EVENT_TYPE": "EVENT_TRADE_INSERT",
+      "AUDIT_EVENT_DATETIME": 1725990105262,
+      "AUDIT_EVENT_TEXT": null,
+      "AUDIT_EVENT_USER": "admin",
+      "RECORD_ID": 7239327202465022526,
+      "TIMESTAMP": 7239327202465022526
+    }
+  ]
+}
