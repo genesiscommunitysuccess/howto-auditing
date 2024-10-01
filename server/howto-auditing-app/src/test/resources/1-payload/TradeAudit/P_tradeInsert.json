@@ -1,0 +1,14 @@
+{
+  "DETAILS": {
+    "COUNTRY_NAME": "Turkey",
+    "CUSTOMER_ID": "10",
+    "CUSTOMER_NAME": "Genesis",
+    "NOTIONAL": 123,
+    "RATE": 1.2,
+    "SETTLEMENT_DATE": 1726185600000,
+    "SIDE": "BUY",
+    "SOURCE_CURRENCY": "TRY",
+    "TARGET_CURRENCY": "TRY",
+    "VERSION": 1
+  }
+}

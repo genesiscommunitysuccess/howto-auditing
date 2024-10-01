@@ -1,0 +1,22 @@
+<!--
+    Processes defined here will run the application.
+
+  * Full documentation on process definitions may be found here >> https://docs.genesis.global/docs/develop/server-capabilities/runtime-configuration/processes/
+
+-->
+
+<processes>
+    <process name="HOWTO_AUDITING_MANAGER">
+        <groupId>HOWTO_AUDITING</groupId>
+        <start>true</start>
+        <options>-Xmx512m -DRedirectStreamsToLog=true</options>
+        <module>genesis-eventhandler,genesis-pal-eventhandler,genesis-pal-requestserver,genesis-pal-dataserver</module>
+        <package>
+            global.genesis.dataserver.pal,global.genesis.eventhandler.pal,global.genesis.requestreply.pal,global.genesis.eventhandler,global.genesis.trades
+        </package>
+        <script>howto-auditing-eventhandler.kts,howto-auditing-reqrep.kts,howto-auditing-dataserver.kts</script>
+        <description>Management of eventhandler, request server and data server processes</description>
+        <classpath>howto-auditing-app*</classpath>
+        <language>pal</language>
+    </process>
+</processes>
